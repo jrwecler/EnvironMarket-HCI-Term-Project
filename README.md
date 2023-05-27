@@ -9,7 +9,7 @@ During the initial stages of my project, I identified an opportunity to create a
 # Low-Fidelity Prototype
 The creation of the low-fidelity prototype was based on the ideas, user needs, and usabilty goals from the initial proposal. I also made sure to establish a specific focus for the interface, and what kind of feedback would be most beneficial to receive. Here are screenshots from the low-fidelity prototype: <br/>
 
-![Login](https://github.com/jrwecler/EnvironMarket-HCI-Term-Project/assets/101900329/4cb5a6c5-cb82-4429-99ac-beb57ddd774a)
+![Login](https://github.com/jrwecler/EnvironMarket-HCI-Term-Project/assets/101900329/4cb5a6c5-cb82-4429-99ac-beb57ddd774a | width=100)
 Login <br/>
 ![Portfolio_Search](https://github.com/jrwecler/EnvironMarket-HCI-Term-Project/assets/101900329/d38b2744-4102-4cba-9c5b-08602ccd7aaa)
 Landing Page <br/>
