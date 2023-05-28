@@ -16,11 +16,5 @@ The creation of the low-fidelity prototype was based on the ideas, user needs, a
 <img src="https://github.com/jrwecler/EnvironMarket-HCI-Term-Project/assets/101900329/9e3f2f60-da8c-4ba1-9d04-b4b5c96fe365" width="250"><br/>
 
 # High-Fidelity Prototype
-The creation of the low-fidelity prototype was based on the ideas, user needs, and usabilty goals from the initial proposal. I also made sure to establish a specific focus for the interface, and what kind of feedback would be most beneficial to receive. Here are screenshots from the low-fidelity prototype, using a prototyping software called Balsamiq: <br/>
-
-<img src="https://github.com/jrwecler/EnvironMarket-HCI-Term-Project/assets/101900329/4cb5a6c5-cb82-4429-99ac-beb57ddd774a" width="250">
-<img src="https://github.com/jrwecler/EnvironMarket-HCI-Term-Project/assets/101900329/d38b2744-4102-4cba-9c5b-08602ccd7aaa" width="250">
-<img src="https://github.com/jrwecler/EnvironMarket-HCI-Term-Project/assets/101900329/dd1c2797-d301-4d44-b530-b8ea885a3cec" width="250">
-<img src="https://github.com/jrwecler/EnvironMarket-HCI-Term-Project/assets/101900329/ae2d96fd-f059-48c2-8b14-292614ee1910" width="250">
-<img src="https://github.com/jrwecler/EnvironMarket-HCI-Term-Project/assets/101900329/9e3f2f60-da8c-4ba1-9d04-b4b5c96fe365" width="250"><br/>
+The creation of the high-fidelity prototype was based on feeback from user testing and heuristic evaluations, which gave critical information on what aspects of the interface could be improved to for better functionality, and to meet user needs. I also made sure to have a strong focus on visual cohesion through the use of color, typography, and an overall aesthetic design. Once the high-fidelity prototype was finished, I was able conduct another round of user tests to get even more information on how to improve the interface. I used a questionare gain insight into several users' experiences witt using the prototype, each individual having varying levels of experience with similar interfaces. This allowed me to make some final conlcusions on which features satisfied user needs, and which did not. Here is a link to the Figma prototype, where the high-fidelity prototype was created: [Link Here!](https://www.figma.com/proto/xtZm8mttoGTsuHZb2dnPkS/HCI-Hi-FI-Prototype?node-id=2-4&starting-point-node-id=2%3A4)
 
